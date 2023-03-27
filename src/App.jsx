@@ -4,10 +4,8 @@ import viteLogo from "/vite.svg"
 import "./App.css"
 import Header from "./components/Header/Header"
 import Shop from "./components/Shop/Shop"
-import DisplayData from "./components/DisplayData/DisplayData"
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <div className="App">
