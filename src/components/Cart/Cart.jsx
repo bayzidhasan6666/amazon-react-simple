@@ -1,7 +1,7 @@
 import React from "react"
 
 const Cart = ({ cart }) => {
-  console.log(cart)
+  // console.log(cart)
   // const {cart} = props;
 
   let totalPrice = 0
